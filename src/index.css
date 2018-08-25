@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  background: darkgreen;
+  background-blend-mode: lighten;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
